@@ -1,0 +1,5 @@
+venv
+.README.md.swo
+.README.md.swp
+node_modules
+package-lock.json
