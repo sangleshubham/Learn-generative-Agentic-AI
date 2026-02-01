@@ -1,5 +1,19 @@
+# Environment files (contains API keys)
+.env
+
+# Python
 venv
+__pycache__
+
+# Editor swap files
 .README.md.swo
 .README.md.swp
+*.swp
+*.swo
+
+# Node.js
 node_modules
 package-lock.json
+
+# OS files
+.DS_Store

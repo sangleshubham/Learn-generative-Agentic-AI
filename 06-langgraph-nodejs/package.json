@@ -1,0 +1,17 @@
+{
+  "name": "6-langgraph-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^1.1.8",
+    "@langchain/langgraph": "^1.0.7"
+  }
+}
