@@ -122,6 +122,7 @@ agentic-generative-ai-course/
 ├── 10-token-encoding/           # Token encoding/decoding
 ├── 11-rag-qdrant-python/        # RAG with Qdrant (Python)
 ├── 12-rag-qdrant-nodejs/        # RAG with Qdrant (Node.js)
+├── 13-RAG-project-file-search-engine/# RAG File Search Engine
 ├── .env.example                 # Environment configuration template
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
@@ -190,6 +191,11 @@ Complete RAG pipeline using Qdrant vector database.
 RAG implementation in Node.js with EPUB/PDF support.
 - **Tech:** Node.js, LangChain.js, Qdrant
 - **Concepts:** Document loaders, vector stores, RAG queries
+
+### 🔹 13 - RAG Project File Search Engine
+RAG-based search engine for querying file contents using local LLMs.
+- **Tech:** Node.js, LangChain, Qdrant, Ollama
+- **Concepts:** RAG, Vector Search, File Ingestion, CLI Interface
 
 ---
 
