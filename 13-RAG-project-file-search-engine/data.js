@@ -1,7 +1,6 @@
 export const documentTexts = [
     `Name: Shubham Sangle
     Contact Info:
-        Mobile No: +91 9370208633 
         Email: sangleshubham9@gmail.com 
         Linkedin: linkedin.com/in/shubham-sangle 
         Github: github.com/sangleshubham`,
